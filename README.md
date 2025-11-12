@@ -4,7 +4,7 @@
 
 Soy emprendedor de TI con una sólida experiencia en infraestructura, redes y telefonía IP, ahora **enfocado en el desarrollo de aplicaciones web**.
 
-Estoy en proceso de crear soluciones completas desde cero, utilizando principalmente el stack **LAMP (PHP, Apache, MySQL)** y **Tailwind CSS** para crear interfaces de usuario modernas.
+Estoy en proceso de crear soluciones completas desde cero, utilizando principalmente el stack **LAMP Linux, Apache, MySQL y PHP** y **Tailwind CSS** para crear interfaces de usuario modernas.
 
 Esperando aprender las bases para continuar con mas lenguajes y herramientas.
 
