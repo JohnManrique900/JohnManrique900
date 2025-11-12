@@ -1,10 +1,12 @@
-# Hola, soy John Manrique 👋
+# Hola, soy Jonathan Manrique 👋
 
-### Desarrollador Web Full-Stack (LAMP) | Profesional de Sistemas
+### (En progreso) Desarrollador Web Full-Stack (LAMP) | Profesional de Sistemas
 
-Soy un profesional de TI con una sólida experiencia en infraestructura, redes y telefonía IP, ahora **enfocado al 100% en el desarrollo de aplicaciones web**.
+Soy emprendedor de TI con una sólida experiencia en infraestructura, redes y telefonía IP, ahora **enfocado en el desarrollo de aplicaciones web**.
 
-Me especializo en crear soluciones completas desde cero, utilizando principalmente el stack **LAMP (PHP, Apache, MySQL)** y **Tailwind CSS** para crear interfaces de usuario modernas.
+Estoy en proceso de crear soluciones completas desde cero, utilizando principalmente el stack **LAMP (PHP, Apache, MySQL)** y **Tailwind CSS** para crear interfaces de usuario modernas.
+
+Esperando aprender las bases para continuar con mas lenguajes y herramientas.
 
 ---
 
