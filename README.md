@@ -1,13 +1,13 @@
 ### 👋 ¡Hola! Soy asd
 
-Desarrollador apasionado con experiencia en la creación de soluciones web modernas. Especializado en Photoshop.
+Entusiasta del desarrollo con un profundo interés en Notion. Abierto a colaborar en proyectos innovadores.
 
 ---
 
 ### 💻 Mi Stack Tecnológico
 
 <p align='left'>
-  <img src='https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black' alt='Photoshop' />
+  <img src='https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white' alt='Notion' />
 </p>
 
 ### 📊 Mis Estadísticas de GitHub
