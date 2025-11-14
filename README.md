@@ -1,12 +1,13 @@
 ### 👋 ¡Hola! Soy asd
 
-Entusiasta del desarrollo con un profundo interés en Notion. Abierto a colaborar en proyectos innovadores.
+Desarrollador apasionado con experiencia en la creación de soluciones web modernas. Especializado en Notion y Git.
 
 ---
 
 ### 💻 Mi Stack Tecnológico
 
 <p align='left'>
+  <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='Git' />
   <img src='https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white' alt='Notion' />
 </p>
 
@@ -19,4 +20,4 @@ Entusiasta del desarrollo con un profundo interés en Notion. Abierto a colabora
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=asd&theme=radical&hide_border=true&layout=compact' alt='Top Lenguajes' />
 </p>
 
-
+<!-- Generado con ReflectGit (https://github.com/JohnManrique900/ReflectGit) -->
