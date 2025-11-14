@@ -1,14 +1,13 @@
 ### 👋 ¡Hola! Soy JohnManrique900
 
-Desarrollador con experiencia demostrada en Django y Haskell. Buscando siempre el siguiente reto.
+Desarrollador apasionado con experiencia en la creación de soluciones web modernas. Especializado en C#.
 
 ---
 
 ### 💻 Mi Stack Tecnológico
 
 <p align='left'>
-  <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' alt='Django' />
-  <img src='https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white' alt='Haskell' />
+  <img src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white' alt='C#' />
 </p>
 
 ### 📊 Mis Estadísticas de GitHub
